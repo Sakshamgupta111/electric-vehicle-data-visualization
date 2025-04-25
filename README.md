@@ -1,1 +1,1 @@
-uighdwo
+int main uighdwo
