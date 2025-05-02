@@ -3,4 +3,4 @@ int main
 char a
 int abc
 .
-aaa
+aa
